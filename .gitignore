@@ -1,5 +1,4 @@
-# 忽略所有 .csv 檔案
 *.csv
-
-# 忽略所有 .xlsx 檔案
 *.xlsx
+*.json
+*.html
